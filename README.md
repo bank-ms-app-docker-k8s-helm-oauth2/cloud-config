@@ -1,1 +1,1 @@
-# cloud-config
+# eazybytes-config
